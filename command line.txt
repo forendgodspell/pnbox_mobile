@@ -1,0 +1,12 @@
+npm ls -g --dept 0
+npm ls --dept 0
+
+**********************************************************************************
+pi@rpi3_forend:~/Node_Project/project01 $ npm ls --dept 0
+hello@1.0.0 /home/pi/Node_Project/project01
+?ÄÄ express@4.16.3
+?ÄÄ log4js@3.0.5
+?ÄÄ mariasql@0.2.6
+?ÄÄ raspi-serial@5.0.0
+ÀÄÄ serialport@7.0.2
+**********************************************************************************
