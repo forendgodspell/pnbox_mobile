@@ -1,6 +1,25 @@
 npm ls -g --dept 0
 npm ls --dept 0
+git fetch origin
+git reset --hard origin/master
+git checkout -- <filename>
+git tag 1.0.0 xxxxxxxxxx
 
+git pull
+git diff (source_branch) (target_branch>
+git merge <branch>
+
+git checkout -b feature_x
+
+git checkout master
+
+git push -u remote ..............
+git push origin <branch>
+
+git add <filename>
+git add *
+
+********************************************************************************
 sudo npm -i npm-upgrade
 
 sudo chown -R $(whoami) ~/.npm
